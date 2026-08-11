@@ -21,6 +21,10 @@ npm start       # sirve el build
 npm run lint    # eslint (flat config, sin argumentos: recorre el proyecto)
 npx tsc --noEmit  # typecheck; el build no es el único chequeo de tipos disponible
 ```
+## SKILLS
+Usa From Design para diseñar la interfaz de usuario.
+
+
 
 No hay framework de tests configurado. Si se agrega uno, documentar aquí el comando para correr un
 test individual.
@@ -48,3 +52,4 @@ todavía; si el usuario las invoca y no aparecen, sugerir ejecutar ese comando.
 
 `AGENTS.md` es reescrito por `next dev` en cada arranque. Si aparece modificado en el diff, commitearlo
 junto con el resto del trabajo en vez de revertirlo.
+
